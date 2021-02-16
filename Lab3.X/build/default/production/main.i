@@ -6,11 +6,11 @@
     ;Autor: Margareth Vela
     ;Compilador: pic-as(v2.31), MPLABX V5.40
     ;
-    ;Programa: Sumador de 4 bits
-    ;Hardware: LEDs en puerto B, C y D, & push buttons en puerto A y C
-    ;
-    ;Creado: 09 feb, 2021
-    ;Última modificación: 10 feb, 2021
+    ;Programa: Botones y Timer0
+    ;Hardware: LEDs en puerto C y E, display 7 seg en puerto D
+    ; & push buttons en puerto A
+    ;Creado: 14 feb, 2021
+    ;Última modificación: 16 feb, 2021
 
 PROCESSOR 16F887
 

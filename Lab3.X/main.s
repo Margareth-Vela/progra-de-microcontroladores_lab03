@@ -1,7 +1,7 @@
     ;Archivo:	    main.s
     ;Dispositivo:   PIC16F887
     ;Autor:	    Margareth Vela
-    ;Compilador:    pic-as(v2.31), MPLABX V5.40
+    ;Compilador:    pic-as(v2.31), MPLABX V5.45
     ;
     ;Programa:	    Botones y Timer0
     ;Hardware:	    LEDs en puerto C y E, display 7 seg en puerto D  

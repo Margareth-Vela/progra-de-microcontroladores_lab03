@@ -108,6 +108,9 @@ config_io:
     clrf    PORTD ;Comenzar contador hexadecimal en 0
     clrf    PORTE ;La alarma está apagada
     clrf    contador ;Comenzar el contador del display en 0
+    movwf   contador, 0 
+    call    tabla
+    movwf   PORTD ;Display en 0
     return
 
 config_reloj:

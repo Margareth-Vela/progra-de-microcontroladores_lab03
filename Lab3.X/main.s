@@ -174,7 +174,3 @@ alarma:
     return
        
 end
- 
-    
-
-

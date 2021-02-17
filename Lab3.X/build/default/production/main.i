@@ -2474,8 +2474,8 @@ ENDM
   CONFIG LVP = ON ; Programacion en bajo voltaje permitida
 
 ; CONFIG2
-  CONFIG BOR4V = BOR40V ; Protección de autoescritura por el programa desactivada
-  CONFIG WRT = OFF ; Reinicio abajo de 4V, (BOR21V=2.1V)
+  CONFIG BOR4V = BOR40V ; Reinicio abajo de 4V, (BOR21V=2.1V)
+  CONFIG WRT = OFF ; Protección de autoescritura por el programa desactivada
 
 ;-------------------------------------------------------------------------------
 ; Variables
